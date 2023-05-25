@@ -1,0 +1,6 @@
+2023-05-19 22:07:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "TEST" no encontrada
+Table "TEST" not found; SQL statement:
+INSERT INTO TEST VALUES(1, 'Hello');
+INSERT INTO TEST VALUES(2, 'World');
+ [42102-214]

@@ -1,0 +1,19 @@
+public abstract class Examen {
+    private String titulo, enunciado;
+    private Integer nota;
+    private Alumno alumno;
+
+    public Examen(String titulo, String enunciado, Integer nota, Alumno alumno) {
+        this.titulo = titulo;
+        this.enunciado = enunciado;
+        this.nota = nota;
+        this.alumno = alumno;
+    }
+
+    public Integer getNota() {
+        return nota;
+    }
+
+    public abstract Boolean estaAprobado();
+
+}
