@@ -4,14 +4,12 @@ public abstract class Logger {
     public static String DEBUG = "debug";
     public static String TRAZA = "traza";
     protected Logger siguienteLogger;
+
+
     protected String tipo;
 
-    public Logger() {
-
-    }
-
-    public Logger(Logger siguienteLogger) {
-        this.siguienteLogger = siguienteLogger;
+    public Logger(String tipo) {
+        this.tipo = tipo;
     }
 
     public Logger getSiguienteLogger() {
