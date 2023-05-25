@@ -1,9 +1,6 @@
 public class DebugLogger extends Logger{
 
-    public DebugLogger(String tipo){
-        this.tipo =tipo;
 
-    }
 
     @Override
     public void enviarMensaje(String mensaje, String tipo){

@@ -1,8 +1,5 @@
 public class TrazaLogger extends Logger{
 
-    public TrazaLogger(String tipo){
-        this.tipo = tipo;
-    }
 
     @Override
     public void enviarMensaje(String mensaje, String tipo){

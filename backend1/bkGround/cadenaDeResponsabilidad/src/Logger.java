@@ -6,14 +6,23 @@ public abstract class Logger {
     protected Logger siguienteLogger;
     protected String tipo;
 
-    public Logger getSiguienteLogger() {
-        return this;
+    public Logger() {
+
     }
 
-    public Logger setSiguienteLogger(Logger logger) {
-        this.siguienteLogger= logger;
-        return this;
+    public Logger(Logger siguienteLogger) {
+        this.siguienteLogger = siguienteLogger;
     }
+
+    public Logger getSiguienteLogger() {
+        return siguienteLogger;
+    }
+
+    public void setSiguienteLogger(Logger siguienteLogger) {
+        this.siguienteLogger= siguienteLogger;
+    }
+
+
 
     public abstract void enviarMensaje(String mensaje, String tipo);
 

@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        Logger log = new TrazaLogger("error");
+        Logger log = new TrazaLogger();
 
         //Logger log2 = new DebugLogger("debug");
         //Logger log3 = new ErrorLogger("error");

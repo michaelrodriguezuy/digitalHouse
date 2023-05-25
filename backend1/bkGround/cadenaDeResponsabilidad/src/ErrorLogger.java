@@ -1,8 +1,5 @@
 public class ErrorLogger extends Logger{
 
-    public ErrorLogger(String tipo){
-        this.tipo = tipo;
-    }
 
     @Override
     public void enviarMensaje(String mensaje, String tipo){

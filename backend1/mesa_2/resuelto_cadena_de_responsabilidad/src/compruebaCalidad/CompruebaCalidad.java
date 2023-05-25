@@ -7,7 +7,12 @@ import cadenaResponsabilidad.implementaciones.loteHandler;
 import model.Articulo;
 
 public class CompruebaCalidad {
+
     private AnalistaDeCalidadHandler firstHandler;
+
+
+
+
     public CompruebaCalidad() {
         this.firstHandler = new loteHandler();
         AnalistaDeCalidadHandler secondHandler = new PesoHandler();
@@ -16,6 +21,10 @@ public class CompruebaCalidad {
         this.firstHandler.setSucessor(secondHandler);
         secondHandler.setSucessor(thirdHandler);
     }
+
+
+
+
 
     public void CrearArticulo(Articulo articulo){
         String mensaje = firstHandler.handleValidarCalidadDelProducto(articulo);
