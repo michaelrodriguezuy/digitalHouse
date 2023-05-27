@@ -9,8 +9,10 @@ public class TrazaLogger extends Logger{
         if (tipo.equals(this.tipo)) {
             System.out.println("Escribiendo en un archivo de texto: "+ mensaje);
         }
-        else if (getSiguienteLogger() != null) {
+        if (getSiguienteLogger() != null ) {
+
             getSiguienteLogger().enviarMensaje(mensaje, tipo);
+
         }
     }
 

@@ -9,9 +9,9 @@ public class Main {
         log2.setSiguienteLogger(log3);
         log3.setSiguienteLogger(log1);
 
-        //log1.enviarMensaje("hola traza","traza");
+        log1.enviarMensaje("hola traza","traza");
 
-        log2.enviarMensaje("hola debug", "debug");
+        //log2.enviarMensaje("hola debug", "debug");
         //log3.enviarMensaje("hola error", "error");
     }
 }

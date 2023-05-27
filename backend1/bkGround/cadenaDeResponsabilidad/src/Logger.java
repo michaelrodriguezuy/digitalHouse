@@ -5,8 +5,8 @@ public abstract class Logger {
     public static String TRAZA = "traza";
     protected Logger siguienteLogger;
 
-
     protected String tipo;
+    public int contador;
 
     public Logger(String tipo) {
         this.tipo = tipo;
@@ -20,9 +20,6 @@ public abstract class Logger {
         this.siguienteLogger= siguienteLogger;
     }
 
-
-
     public abstract void enviarMensaje(String mensaje, String tipo);
-
 
 }

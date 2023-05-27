@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8037c93d-8ac8-4ec5-8c03-1e46238e3a7c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../C14/paciente-domicilio/src/main/dao/impl/DaoDomicilio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../C14/paciente-domicilio/src/main/dao/impl/DaoDomicilio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C14/paciente-domicilio/src/main/dao/impl/PacienteDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../C14/paciente-domicilio/src/main/dao/impl/PacienteDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Consigna Integradora/Consigna_integradora-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/out/production/cadenaDeResponsabilidad/DebugLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/out/production/cadenaDeResponsabilidad/DebugLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/out/production/cadenaDeResponsabilidad/ErrorLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/out/production/cadenaDeResponsabilidad/ErrorLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/out/production/cadenaDeResponsabilidad/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/out/production/cadenaDeResponsabilidad/Logger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/out/production/cadenaDeResponsabilidad/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/out/production/cadenaDeResponsabilidad/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/out/production/cadenaDeResponsabilidad/TrazaLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/out/production/cadenaDeResponsabilidad/TrazaLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/src/DebugLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/src/DebugLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/src/ErrorLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/src/ErrorLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/src/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/src/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/src/TrazaLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bkGround/cadenaDeResponsabilidad/src/TrazaLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conexion Base de datos/BD/h2-setup-2022-06-13.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2QOQZkmzA1oXWNTtZ5a0OKMf1pW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/OneDrive/Escritorio/digitalHouse/DH/backend1/patrones"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8037c93d-8ac8-4ec5-8c03-1e46238e3a7c" name="Changes" comment="" />
+      <created>1685222206482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685222206482</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

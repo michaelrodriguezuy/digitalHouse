@@ -8,8 +8,10 @@ public class ErrorLogger extends Logger{
         if (tipo.equals(this.tipo)) {
             System.out.println("Enviando email: "+ mensaje);
         }
-        else if (getSiguienteLogger() != null) {
-            getSiguienteLogger().enviarMensaje(mensaje, tipo);
+         if (getSiguienteLogger() != null) {
+
+             getSiguienteLogger().enviarMensaje(mensaje, tipo);
+
         }
     }
 
