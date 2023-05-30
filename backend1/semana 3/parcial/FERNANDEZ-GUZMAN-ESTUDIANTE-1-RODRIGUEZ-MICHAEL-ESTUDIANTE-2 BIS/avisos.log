@@ -1,0 +1,238 @@
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:32] org.h2.Driver
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:52] No suitable driver found for jdbc:h2:D:\backend\librerias\h2\bin;INIT=RUNSCRIPT FROM 'create.sql'
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:106] org.h2.Driver
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:121] No suitable driver found for jdbc:h2:D:\backend\librerias\h2\bin;INIT=RUNSCRIPT FROM 'create.sql'
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:32] org.h2.Driver
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:52] No suitable driver found for jdbc:h2:D:\backend\librerias\h2\bin;INIT=RUNSCRIPT FROM 'create.sql'
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:32] org.h2.Driver
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:52] No suitable driver found for jdbc:h2:D:\backend\librerias\h2\bin;INIT=RUNSCRIPT FROM 'create.sql'
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:32] org.h2.Driver
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:52] No suitable driver found for jdbc:h2:D:\backend\librerias\h2\bin;INIT=RUNSCRIPT FROM 'create.sql'
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:32] org.h2.Driver
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:52] No suitable driver found for jdbc:h2:D:\backend\librerias\h2\bin;INIT=RUNSCRIPT FROM 'create.sql'
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:32] org.h2.Driver
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:52] No suitable driver found for jdbc:h2:D:\backend\librerias\h2\bin;INIT=RUNSCRIPT FROM 'create.sql'
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:32] org.h2.Driver
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:52] No suitable driver found for jdbc:h2:D:\backend\librerias\h2\bin;INIT=RUNSCRIPT FROM 'create.sql'
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:32] org.h2.Driver
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:52] No suitable driver found for jdbc:h2:D:\backend\librerias\h2\bin;INIT=RUNSCRIPT FROM 'create.sql'
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:106] org.h2.Driver
+[2023-05-28 18:51:47] [ ERROR] [DaoOdontologo:121] No suitable driver found for jdbc:h2:D:\backend\librerias\h2\bin;INIT=RUNSCRIPT FROM 'create.sql'
+[2023-05-28 19:10:36] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-28 19:10:36] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-28 19:10:37] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-28 19:10:37] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-28 19:10:37] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-28 19:10:37] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-28 19:10:37] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-28 19:10:37] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-28 19:10:37] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-28 19:10:37] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:04:41] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:04:42] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:04:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:04:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:04:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:04:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:04:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:04:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:04:43] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:04:43] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:15:55] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:15:55] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:15:56] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:15:56] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:15:56] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:15:56] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:15:56] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:15:56] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:15:56] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:15:56] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:20:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:20:02] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:20:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:20:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:20:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:20:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:20:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:20:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:20:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 16:20:02] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 18:38:19] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 18:38:19] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 18:58:30] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:30] [ ERROR] [DaoOdontologo:121] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:30] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:30] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:30] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:30] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:50] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:50] [ ERROR] [DaoOdontologo:121] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:50] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:50] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:50] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:50] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:50] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:50] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:50] [ ERROR] [DaoOdontologo:52] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 18:58:50] [ ERROR] [DaoOdontologo:121] Nombre de base de datos Invalido: "C:\\H2\\bin\\"
+Invalid database name: "C:\\H2\\bin\\" [90138-214]
+[2023-05-29 19:01:10] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:01:10] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:01:10] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:01:10] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:01:10] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:01:10] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:01:10] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:01:10] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:01:11] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:01:11] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:07:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:07:42] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:07:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:07:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:07:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:07:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:07:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:07:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:07:42] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-05-29 19:07:42] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]

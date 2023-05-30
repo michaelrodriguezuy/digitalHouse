@@ -1,0 +1,7 @@
+[2023-05-28 18:35:53] [ INFO ] [Main:21] Empieza el metodo MAIN
+[2023-05-28 18:35:53] [ ERROR] [Main:25] No podes divir entre 0 manteka
+java.lang.ArithmeticException: / by zero
+	at com.dh.ecommerce.Main.main(Main.java:23)
+[2023-05-28 18:35:53] [ WARN ] [Main:37] Se termina lo bueno
+[2023-05-28 18:35:53] [ DEBUG] [Main:38] Esto se ve porque en el properties el infologger esta en DEBUG
+[2023-05-28 18:35:53] [ INFO ] [Main:39] Fin del thread MAIN
