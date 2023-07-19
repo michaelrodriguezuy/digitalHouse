@@ -1,0 +1,50 @@
+package com.dh.clinica.controller;
+
+import com.dh.clinica.persistence.dao.impl.DomicilioDaoH2;
+import com.dh.clinica.persistence.dao.impl.OdontologoDaoH2;
+import com.dh.clinica.persistence.dao.impl.PacienteDaoH2;
+import com.dh.clinica.persistence.dao.impl.TurnoListDao;
+import com.dh.clinica.model.Turno;
+import com.dh.clinica.service.OdontologoService;
+import com.dh.clinica.service.PacienteService;
+import com.dh.clinica.service.TurnoService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
+
+@RestController
+@RequestMapping("/turnos")
+public class TurnoController {
+
+
+    @Autowired
+    //private TurnoService turnoService = new TurnoService(new TurnoListDao());
+    private TurnoService turnoService;
+
+    private PacienteService pacienteService = new PacienteService(new PacienteDaoH2(new DomicilioDaoH2()));
+
+    private OdontologoService odontologoService = new OdontologoService(new OdontologoDaoH2());
+
+    @PostMapping
+    public ResponseEntity<Turno> registrarTurno(@RequestBody Turno turno) {
+        ResponseEntity<Turno> respuesta;
+
+        if(pacienteService.buscar(turno.getPaciente().getId()) != null
+                && odontologoService.buscar(turno.getOdontologo().getId()) != null){
+
+            respuesta = ResponseEntity.ok(turnoService.registrarTurno(turno));
+        }else{
+            respuesta = ResponseEntity.badRequest().build();
+        }
+
+        return respuesta;
+    }
+
+    @GetMapping
+    public ResponseEntity<List<Turno>> listar() {
+        return ResponseEntity.ok(turnoService.listar());
+    }
+
+}

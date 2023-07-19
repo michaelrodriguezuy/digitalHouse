@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.dh.clinica.ClinicaOdontologicaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.668 s <<< FAILURE! - in com.dh.clinica.ClinicaOdontologicaApplicationTests
+contextLoads  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'turnoController': Unsatisfied dependency expressed through field 'turnoService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'turnoService' defined in file [D:\OneDrive\Escritorio\digitalHouse\DH\backend1\semana 5\c27-c28\api-rest-clinica-odontologica\target\classes\com\dh\clinica\service\TurnoService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.dh.clinica.service.TurnoService]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.dh.clinica.service.TurnoService.<init>()
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'turnoService' defined in file [D:\OneDrive\Escritorio\digitalHouse\DH\backend1\semana 5\c27-c28\api-rest-clinica-odontologica\target\classes\com\dh\clinica\service\TurnoService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.dh.clinica.service.TurnoService]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.dh.clinica.service.TurnoService.<init>()
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.dh.clinica.service.TurnoService]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.dh.clinica.service.TurnoService.<init>()
+Caused by: java.lang.NoSuchMethodException: com.dh.clinica.service.TurnoService.<init>()
+

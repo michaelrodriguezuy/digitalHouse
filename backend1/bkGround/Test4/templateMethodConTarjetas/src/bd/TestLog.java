@@ -10,10 +10,10 @@ public class TestLog {
         public static void main(String[] args) throws Exception {
             Class.forName("org.h2.Driver").newInstance();
 
-            String url = "jdbc:h2:~/test";
+            String url = "jdbc:h2:C:\\H2\\test2";
             //String db = "./Database/test";
             String user= "sa";
-            String pass = "";
+            String pass = "sa";
 
             Connection con = DriverManager.getConnection(url, user, pass);
 

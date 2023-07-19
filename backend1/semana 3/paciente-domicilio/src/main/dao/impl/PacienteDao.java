@@ -11,10 +11,11 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
+import java.util.logging.Logger;
 
 public class PacienteDao extends AbstractDaoH2Latam<Paciente> {
 
-    public Logger logger = Logger.getLogger(PacienteDao.class);
+    public Logger logger = Logger.getLogger(String.valueOf(PacienteDao.class));
 
     private final String TABLA = "paciente";
     private String SQL_INSERT = "INSERT INTO " + TABLA + "(id, nombre, id_domicilio) VALUES(?, ?, ?)";

@@ -236,3 +236,339 @@ RUNSCRIPT FROM 'create.sql' [90031-214]
 [2023-05-29 19:07:42] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
 IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
 RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 00:26:30] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 00:26:30] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 00:26:30] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 00:26:30] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 00:26:30] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 00:26:30] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 00:26:30] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 00:26:30] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 00:26:30] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 00:26:30] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:31:06] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:31:06] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:31:06] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:31:06] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:31:06] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:31:06] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:31:06] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:31:06] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:31:06] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:31:06] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:33:01] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:33:01] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:33:01] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:33:01] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:33:01] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:33:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:33:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:33:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:33:02] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:33:02] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:34:20] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:34:20] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:34:20] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:34:20] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:34:20] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:34:20] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:34:20] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:34:20] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:34:20] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 01:34:20] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:30:08] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-01 11:30:08] [ ERROR] [DaoOdontologo:121] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-01 11:30:08] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-01 11:30:08] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-01 11:30:08] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-01 11:30:08] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-01 11:30:08] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-01 11:30:08] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-01 11:30:08] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-01 11:30:08] [ ERROR] [DaoOdontologo:121] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-01 11:35:08] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:35:08] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:35:08] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:35:08] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:35:08] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:35:08] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:35:08] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:35:08] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:35:08] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:35:08] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:36:41] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:36:41] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:36:41] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:36:41] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:36:41] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:36:41] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:36:41] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:36:41] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:36:41] [ ERROR] [DaoOdontologo:52] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:36:41] [ ERROR] [DaoOdontologo:121] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2023-06-01 11:38:13] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-01 11:38:13] [ ERROR] [DaoOdontologo:121] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-01 11:38:13] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-01 11:38:13] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-01 11:38:13] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-01 11:38:13] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-01 11:38:13] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-01 11:38:13] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-01 11:38:13] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-01 11:38:13] [ ERROR] [DaoOdontologo:121] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:20:14] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:20:14] [ ERROR] [DaoOdontologo:121] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:20:14] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:20:14] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:20:14] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:20:14] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:20:14] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:20:14] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:20:14] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:20:14] [ ERROR] [DaoOdontologo:121] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:09] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:09] [ ERROR] [DaoOdontologo:121] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:09] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:09] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:09] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:09] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:09] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:09] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:09] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:09] [ ERROR] [DaoOdontologo:121] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:49] [ ERROR] [DaoOdontologo:52] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:21:49] [ ERROR] [DaoOdontologo:121] IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"
+IO Exception: "java.io.FileNotFoundException: resource /create.sql"; "classpath:create.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:create.sql' [90031-214]
+[2023-06-19 12:22:44] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:22:44] [ ERROR] [DaoOdontologo:121] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:22:44] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:22:44] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:22:44] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:22:44] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:22:44] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:22:44] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:22:44] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:22:44] [ ERROR] [DaoOdontologo:121] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:23:47] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:23:47] [ ERROR] [DaoOdontologo:121] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:23:47] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:23:47] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:23:47] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:23:47] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:23:47] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:23:47] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:23:47] [ ERROR] [DaoOdontologo:52] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-06-19 12:23:47] [ ERROR] [DaoOdontologo:121] La base de datos puede que ya esté siendo utilizada: "C:/H2/bin.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/H2/bin.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]

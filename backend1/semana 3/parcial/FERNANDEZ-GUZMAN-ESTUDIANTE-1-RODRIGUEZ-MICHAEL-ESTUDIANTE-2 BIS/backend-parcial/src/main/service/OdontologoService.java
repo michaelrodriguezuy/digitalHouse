@@ -10,7 +10,7 @@ import java.util.List;
 
 public class OdontologoService {
 
-    IDao<Odontologo> odontologoDao = new DaoOdontologo("jdbc:h2:C:\\H2\\bin;INIT=RUNSCRIPT FROM 'create.sql'", "sa", "");
+    IDao<Odontologo> odontologoDao = new DaoOdontologo("jdbc:h2:C:\\H2\\bin;INIT=RUNSCRIPT FROM 'classpath:create.sql'", "sa", "");
     IDao<Odontologo> odontologoDaoMemoria = new DaoOdontologoMemoria(odontologoDao.findAll());
 
 

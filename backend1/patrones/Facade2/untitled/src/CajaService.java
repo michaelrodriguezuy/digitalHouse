@@ -1,7 +1,9 @@
 public class CajaService {
-
-    public boolean entregarDinero (Double monto) {
-        return true;
+    public boolean entregarDinero (Cuenta cuenta, Double monto) {
+            if (cuenta.getSaldoActual()>=monto) {
+                cuenta.setSaldoActual(cuenta.getSaldoActual()-monto);
+                return true;
+            }
+        return false;
     }
-
 }

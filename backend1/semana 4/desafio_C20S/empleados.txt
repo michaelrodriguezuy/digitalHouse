@@ -1,0 +1,4 @@
+Pedro;Ramirez;Administrativo;42000.0
+Laura;Ramirez;Administrativo;40000.0
+Enrique;Ramirez;Administrativo;38000.0
+Josefina;Ramirez;Administrativo;50000.0

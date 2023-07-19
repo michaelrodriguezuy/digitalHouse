@@ -42,7 +42,7 @@ class OdontologoServiceTest {
             Odontologo o = new Odontologo();
 
             o.setNumero_matricula(4);
-            o.setNombre("Guzmán");
+            o.setNombre("Machadito");
             o.setApellido("Rodriguez");
 
             //CUANDO

@@ -3,7 +3,7 @@ package main.dao.impl;
 import main.dao.AbstractDao;
 import main.dao.AbstractDaoH2Latam;
 import main.model.Domicilio;
-import org.apache.log4j.Logger;
+//import org.apache.log4j.Logger;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -11,6 +11,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
+import java.util.logging.Logger;
 
 public class DaoDomicilio extends AbstractDao<Domicilio> {
 
