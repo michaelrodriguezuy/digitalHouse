@@ -1,0 +1,41 @@
+/* Produto.module.css */
+
+.contenedor {
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.li {
+    
+    flex: 0 0 calc(33.33% - 2em);
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    
+    text-align: center;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    transition: 0.3s;
+}
+
+.img {
+    width: 18;
+    height: 12vh;
+    object-fit: cover;
+    border-radius: 1em;
+    
+}
+
+.p {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.p:hover {
+    color: #ff0000;
+    cursor: pointer;
+}
