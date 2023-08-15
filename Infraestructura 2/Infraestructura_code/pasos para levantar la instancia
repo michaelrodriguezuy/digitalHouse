@@ -1,0 +1,13 @@
+aws configure
+
+ssh-keygen -t rsa -b 4096 -f ~/.ssh/id_rsa
+key.yaml -> ( ---
+- hosts: localhost
+  tasks:
+    - name: Subir la llave publica a AWS 
+      amazon.aws.ec2_key:
+        name: llave
+        key_material: "{{ lookup('file', '/home/user/.ssh/id_rsa.pub') }}" )
+
+
+ansible-playbook key.yaml
