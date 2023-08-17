@@ -1,0 +1,16 @@
+---
+- hosts: localhost
+  tasks:
+    - name: Crear instancia EC2
+      amazon.aws.ec2_instance:
+        region: us-east-1
+        instance_type: t2.micro
+        image_id: ami-053b0d53c279acc90
+        key_name: PG-wordpress-access  # Reemplaza con el nombre de la clave SSH
+        wait: yes
+        wait_timeout: 500
+        tags:
+          Name: Instancia_Michael4    
+        network:
+          assign_public_ip: yes      
+      register: ec2_instance
