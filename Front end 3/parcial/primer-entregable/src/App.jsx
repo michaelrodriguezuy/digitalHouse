@@ -26,7 +26,7 @@ function App() {
       setDatosEnviados({ nombre, equipo })
     }
     else {
-      setError('Por favor chequea que la información sea correcta')
+      setError('Por favor chequea que la información seas correcta')
       setCards(false)
     }
 
