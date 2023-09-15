@@ -8,15 +8,7 @@
   --button-background-dark: #474747;
 }
 
-.app-container {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-
-body {  
+body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -234,8 +226,7 @@ tbody tr:hover {
 }
 
 /* dark */
-.dark {  
-  
+.dark {
   color: var(--text-color-dark);
   background-color: var(--background-color-dark);
 }
@@ -257,7 +248,6 @@ tbody tr:hover {
 
 /* light */
 .light {
-  
   color: var(--text-color-light);
   background-color: var(--background-color-light);
 }

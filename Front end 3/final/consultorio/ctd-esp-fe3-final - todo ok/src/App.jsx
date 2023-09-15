@@ -1,17 +1,10 @@
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import { Outlet } from "react-router-dom";
-import { useContext } from "react";
-
-import { ContextGlobal } from "./Components/utils/global.context";
 
 function App() {
-
-  const { state } = useContext(ContextGlobal);
-  const theme = state.theme;
-
   return (
-    <div className={`app-container ${theme}`}>
+    <div>
       <Navbar />
       <Outlet />
       <Footer />
