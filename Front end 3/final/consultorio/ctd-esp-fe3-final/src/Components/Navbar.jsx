@@ -12,39 +12,42 @@ const Navbar = () => {
   };
 
   return (
-    <nav className={`${theme}`}>
-      <img
-        src="../../src/assets/odontologia.png"
-        alt="consultorio odontológico"
-        width="70em"
-      />
-      <ul>
-        <li>
-          <Link className="text-nav" to="/">
-            Inicio
-          </Link>
-        </li>
-        <li>
-          <Link className="text-nav" to="/contact">
-            Contacto
-          </Link>
-        </li>
+    <div>
+      <nav>
+        <img
+          src="../../src/assets/odontologia.png"
+          alt="consultorio odontológico"
+          width="70em"
+        />
+        <ul>
+          <li>
+            <Link className="text-nav" to="/">
+              Inicio
+            </Link>
+          </li>
+          <li>
+            <Link className="text-nav" to="/contact">
+              Contacto
+            </Link>
+          </li>
 
-        <li>
-          <Link className="text-nav" to="/favs">
-            Favoritos
-          </Link>
-        </li>
+          <li>
+            <Link className="text-nav" to="/favs">
+              Favoritos
+            </Link>
+          </li>
 
-        <li>
-          <button className="button-theme" onClick={handleChangeTheme}>
-            <span role="img" aria-label="theme-icon">
-              {theme === "dark" ? "☀️" : "🌙"}
-            </span>
-          </button>
-        </li>
-      </ul>
-    </nav>
+          <li>
+            <button className="button-theme" onClick={handleChangeTheme}>
+              <span role="img" aria-label="theme-icon">
+                {theme === "dark" ? "☀️" : "🌙"}
+              </span>
+            </button>
+          </li>
+        </ul>
+      </nav>
+      <div className="navbar-space"></div>
+    </div>
   );
 };
 

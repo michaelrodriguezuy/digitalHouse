@@ -13,7 +13,7 @@ const Detail = () => {
   const dentist = Array.isArray(dentistas) ? dentistas.find((dentista) => dentista.id === parseInt(id)) : null;
 
   return (
-    <div className={`${theme}`}>
+    <div >
       <h1>Datos del dentista {id}</h1>
       <table>
         <thead>

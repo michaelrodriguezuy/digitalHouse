@@ -12,7 +12,7 @@ const Home = () => {
   const dentistas = data.getData;
 
   return (
-    <main className={`${theme}`}>
+    <main >
       <h1>Inicio</h1>
       <div className="card-grid">
         {dentistas.length

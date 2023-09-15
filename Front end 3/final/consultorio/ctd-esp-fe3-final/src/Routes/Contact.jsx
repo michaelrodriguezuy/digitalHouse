@@ -7,7 +7,7 @@ const Contact = () => {
   const theme = state.theme;
 
   return (
-    <div className={`${theme}`}>
+    <div >
       <h2>Quisieras mas información?</h2>
       <p>Envianos tus datos y nos pondremos en contacto</p>
       <Form />

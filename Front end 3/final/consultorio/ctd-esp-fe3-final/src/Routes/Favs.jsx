@@ -20,7 +20,7 @@ const Favs = () => {
   };
 
   return (
-    <div className={`${theme}`}>
+    <div >
       <h1>Tus dentistas favoritos {favs.length > 0 && (
         <button className="button-favs-clean" onClick={handleClearFavorites} >
           🗑️ <span className="tooltip">Limpiar favoritos</span>

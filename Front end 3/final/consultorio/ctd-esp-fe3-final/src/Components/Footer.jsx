@@ -7,7 +7,7 @@ const Footer = () => {
 
   return (
     <>
-      <footer className={`${theme}`}>
+      <footer >
         <div className="footer-space"></div>
 
         <div className="footer">
