@@ -1,18 +1,13 @@
-
 import { useContext } from "react";
 import Card from "../Components/Card";
 import { ContextGlobal } from "../Components/utils/global.context";
 
-
 const Home = () => {
-
-  const { state, data } = useContext(ContextGlobal);
-
-  const theme = state.theme;
+  const { data } = useContext(ContextGlobal);
   const dentistas = data.getData;
 
   return (
-    <main >
+    <main>
       <h1>Inicio</h1>
       <div className="card-grid">
         {dentistas.length

@@ -10,7 +10,7 @@ const Form = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    if ((name.length <= 5)||(email.length===0)) {
+    if (name.length <= 5 || email.length === 0) {
       setError("Por favor verifique su información nuevamente");
       setDatosEnviados(false);
     } else {
@@ -45,10 +45,12 @@ const Form = () => {
           placeholder="Email"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
-          style={{ margin: "0.5em", width: "20em"}}
+          style={{ margin: "0.5em", width: "20em" }}
         />
 
-        <button className="button-form" type="submit">Enviar</button>
+        <button className="button-form" type="submit">
+          Enviar
+        </button>
       </form>
 
       {error ? <h4>{error}</h4> : null}

@@ -26,9 +26,9 @@ const Card = ({ name, username, id }) => {
       id,
     };
     if (!state.favs.some((fav) => fav.id === card.id)) {
-      dispatch({ type: "ADD_FAV", payload: card });      
+      dispatch({ type: "ADD_FAV", payload: card });
       alert("Se agregó a favoritos");
-    } else {      
+    } else {
       alert("Ya está en favoritos");
     }
   };

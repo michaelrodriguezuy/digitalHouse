@@ -7,7 +7,6 @@ export const initialStateApi = { getData: "", data: [] };
 export const ContextGlobal = createContext(undefined);
 
 export const ContextProvider = ({ children }) => {
-  
   const reducerTheme = (state, action) => {
     switch (action.type) {
       case "CHANGE_THEME":
@@ -15,7 +14,7 @@ export const ContextProvider = ({ children }) => {
       default:
         return state;
     }
-  };  
+  };
   const [state, dispatch] = useReducer(reducerTheme, initialStateTheme);
 
   const reducerApi = (data, action) => {

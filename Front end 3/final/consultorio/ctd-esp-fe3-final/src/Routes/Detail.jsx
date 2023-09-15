@@ -1,19 +1,20 @@
 import { useContext } from "react";
 import { useParams } from "react-router-dom";
-
 import { ContextGlobal } from "../Components/utils/global.context";
 
-const Detail = () => {  
-  const {id} = useParams();
+const Detail = () => {
+  const { id } = useParams();
 
-  const { state, data } = useContext(ContextGlobal);
-  const theme = state.theme;
+  const { data } = useContext(ContextGlobal);
+
   const dentistas = data.getData;
 
-  const dentist = Array.isArray(dentistas) ? dentistas.find((dentista) => dentista.id === parseInt(id)) : null;
+  const dentist = Array.isArray(dentistas)
+    ? dentistas.find((dentista) => dentista.id === parseInt(id))
+    : null;
 
   return (
-    <div >
+    <div>
       <h1>Datos del dentista {id}</h1>
       <table>
         <thead>

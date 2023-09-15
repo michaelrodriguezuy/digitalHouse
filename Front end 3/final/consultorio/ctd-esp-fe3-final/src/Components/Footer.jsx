@@ -1,13 +1,7 @@
-import { useContext } from "react";
-import { ContextGlobal } from "../Components/utils/global.context";
-
 const Footer = () => {
-  const { state } = useContext(ContextGlobal);
-  const theme = state.theme;
-
   return (
     <>
-      <footer >
+      <footer>
         <div className="footer-space"></div>
 
         <div className="footer">

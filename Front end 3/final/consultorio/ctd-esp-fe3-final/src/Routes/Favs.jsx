@@ -1,31 +1,29 @@
-import { useContext, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import Card from "../Components/Card";
-import { ContextGlobal } from "../Components/utils/global.context";
 
 const Favs = () => {
-  
-  const { state } = useContext(ContextGlobal);
-  const theme = state.theme;
-  
   const [favs, setFavs] = useState([]);
-  
+
   useEffect(() => {
     const favs = JSON.parse(localStorage.getItem("favs")) || [];
     setFavs(favs);
   }, []);
 
   const handleClearFavorites = () => {
-    localStorage.removeItem("favs");    
-    setFavs([]);    
+    localStorage.removeItem("favs");
+    setFavs([]);
   };
 
   return (
-    <div >
-      <h1>Tus dentistas favoritos {favs.length > 0 && (
-        <button className="button-favs-clean" onClick={handleClearFavorites} >
-          🗑️ <span className="tooltip">Limpiar favoritos</span>
-        </button>
-      )} </h1>
+    <div>
+      <h1>
+        Tus dentistas favoritos{" "}
+        {favs.length > 0 && (
+          <button className="button-favs-clean" onClick={handleClearFavorites}>
+            🗑️ <span className="tooltip">Limpiar favoritos</span>
+          </button>
+        )}{" "}
+      </h1>
       <div className="card-grid">
         {favs.length
           ? favs.map((card) => (
@@ -35,7 +33,6 @@ const Favs = () => {
             ))
           : null}
       </div>
-      
     </div>
   );
 };
