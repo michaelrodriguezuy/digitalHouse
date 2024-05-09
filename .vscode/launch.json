@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProductosApplication<digitalHouse-productos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "digitalHouse.productos.ProductosApplication",
+            "projectName": "digitalHouse-productos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
