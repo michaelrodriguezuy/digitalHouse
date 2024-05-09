@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EurekaServerApplication",
+            "request": "launch",
+            "mainClass": "digitalHouse.eurekaserver.EurekaServerApplication",
+            "projectName": "digitalHouse-eureka-server"
+        },
+        {
+            "type": "java",
+            "name": "Config1Server1Application",
+            "request": "launch",
+            "mainClass": "digitalHouse.config1server1.Config1Server1Application",
+            "projectName": "digitalHouse-config1-server1"
+        },
+        {
+            "type": "java",
+            "name": "Config1Server1Application",
+            "request": "launch",
+            "mainClass": "Config1Server1Application",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ConfigServerApplication",
+            "request": "launch",
+            "mainClass": "digitalHouse.configserver.ConfigServerApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-ProductosApplication<digitalHouse-productos>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
