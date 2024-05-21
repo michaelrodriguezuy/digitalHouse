@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckoutApplication",
+            "request": "launch",
+            "mainClass": "CheckoutApplication",
+            "projectName": "digitalHouse-checkout"
+        },
+        {
+            "type": "java",
+            "name": "ProductosApplication",
+            "request": "launch",
+            "mainClass": "ProductosApplication",
+            "projectName": "digitalHouse-productos"
+        },
+        {
+            "type": "java",
             "name": "EurekaServerApplication",
             "request": "launch",
             "mainClass": "digitalHouse.eurekaserver.EurekaServerApplication",

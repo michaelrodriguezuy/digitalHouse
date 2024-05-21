@@ -1,5 +1,8 @@
 {
     "git.ignoreLimitWarning": true,
     "liveServer.settings.port": 5501,
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "especialidad backend/eureka/checkout/src/main/java"
+    ]
 }
