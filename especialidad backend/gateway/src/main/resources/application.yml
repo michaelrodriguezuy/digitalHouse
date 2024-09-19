@@ -19,7 +19,7 @@ spring:
             - Path=/checkout/**
           filters:
             - AddRequestHeader=X-Custom-Header, Gateway-Service
-        
+            - AddResponseHeader=X-Custom-ResponseHeader, Gateway-Service
 
 eureka:
   client:
