@@ -20,6 +20,10 @@ spring:
           filters:
             - AddRequestHeader=X-Custom-Header, Gateway-Service
             - AddResponseHeader=X-Custom-ResponseHeader, Gateway-Service
+        - id: products-service
+          uri: lb://products-service
+          predicates:
+            - Path=/products/**            
 
 eureka:
   client:
