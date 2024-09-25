@@ -6,6 +6,11 @@ spring:
     import: "optional:configserver:"
   application:
     name: gateway-service
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:8080/realms/test
   cloud:
     config:
       discovery:
@@ -23,7 +28,7 @@ spring:
         - id: products-service
           uri: lb://products-service
           predicates:
-            - Path=/products/**            
+            - Path=/products/**
 
 eureka:
   client:
@@ -31,9 +36,3 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
       register-with-eureka: true
       fetch-registry: true
-
-logging:
-  level:
-    org.springframework.cloud.gateway: TRACE
-    com.netflix.discovery: TRACE
-    org.springframework.web.client: TRACE
