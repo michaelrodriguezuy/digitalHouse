@@ -1,6 +1,7 @@
 package com.digitalhouse.checkout.controller;
 
 import java.util.List;
+import java.util.Map;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestHeader;
@@ -22,7 +23,7 @@ public class CheckoutRestController {
 	}
 
 	@GetMapping()
-public Checkout getCheckout(@RequestParam List<String> productIds, @RequestHeader("X-Custom-Header") String requestFrom) {
+public Checkout getCheckout(@RequestParam List<String> productIds, @RequestHeader("X-Custom-Header") String requestFrom, @RequestHeader() Map<String, String> headers) {
     System.out.println("Paso por el filtro: " + requestFrom);
     if (!requestFrom.equals("Gateway-Service")) {
         return null;

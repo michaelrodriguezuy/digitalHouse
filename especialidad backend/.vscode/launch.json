@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "GatewayApplication",
+            "request": "launch",
+            "mainClass": "com.digitalHouse.gateway.GatewayApplication",
+            "projectName": "com.digitalHouse-gateway"
+        },
+        {
+            "type": "java",
+            "name": "CheckoutServiceApplication",
+            "request": "launch",
+            "mainClass": "com.digitalhouse.checkout.CheckoutServiceApplication",
+            "projectName": "com.digitalhouse-checkout-service"
+        },
+        {
+            "type": "java",
+            "name": "ConfigServerApplication",
+            "request": "launch",
+            "mainClass": "com.digitalhouse.configserver.ConfigServerApplication",
+            "projectName": "com.digitalhouse-config-server"
+        },
+        {
+            "type": "java",
+            "name": "EurekaServerApplication",
+            "request": "launch",
+            "mainClass": "com.digitalhouse.eurekaserver.EurekaServerApplication",
+            "projectName": "com.digitalhouse-eureka-server"
+        },
+        {
+            "type": "java",
+            "name": "ProductsServiceApplication",
+            "request": "launch",
+            "mainClass": "com.digitalhouse.products.ProductsServiceApplication",
+            "projectName": "com.digitalhouse-products-service"
+        },
+        {
+            "type": "java",
+            "name": "CheckoutApplication",
+            "request": "launch",
+            "mainClass": "CheckoutApplication",
+            "projectName": "digitalHouse-checkout"
+        },
+        {
+            "type": "java",
+            "name": "Config1Server1Application",
+            "request": "launch",
+            "mainClass": "digitalHouse.config1server1.Config1Server1Application",
+            "projectName": "digitalHouse-config1-server1"
+        },
+        {
+            "type": "java",
+            "name": "EurekaServerApplication(1)",
+            "request": "launch",
+            "mainClass": "digitalHouse.eurekaserver.EurekaServerApplication",
+            "projectName": "digitalHouse-eureka-server"
+        },
+        {
+            "type": "java",
+            "name": "ProductsApplication",
+            "request": "launch",
+            "mainClass": "ProductsApplication",
+            "projectName": "digitalHouse-products"
+        }
+    ]
+}
