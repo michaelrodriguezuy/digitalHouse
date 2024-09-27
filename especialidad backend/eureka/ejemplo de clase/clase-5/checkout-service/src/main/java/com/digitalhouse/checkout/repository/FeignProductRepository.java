@@ -25,5 +25,5 @@ public interface FeignProductRepository {
 
 
     @RequestMapping(method = RequestMethod.GET, value = "/products")
-    Product getProductById(@RequestParam String id);
+    Product getProductById(@RequestParam String id, @RequestParam Boolean throwError);
 }
