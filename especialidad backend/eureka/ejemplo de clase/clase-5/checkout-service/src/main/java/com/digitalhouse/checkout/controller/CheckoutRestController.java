@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -20,6 +21,11 @@ public class CheckoutRestController {
 	public CheckoutRestController(ICheckoutService checkoutService) {
 		super();
 		this.checkoutService = checkoutService;
+	}
+
+	@GetMapping("/{id}")
+	public Checkout getById(@PathVariable String id) {
+		return new Checkout(id);		
 	}
 
 	@GetMapping()
