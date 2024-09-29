@@ -10,6 +10,7 @@ import com.digitalhouse.checkout.service.IProductService;
 
 import io.github.resilience4j.circuitbreaker.CallNotPermittedException;
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
+import io.github.resilience4j.retry.annotation.Retry;
 
 @Service
 public class ProductService  implements IProductService{
@@ -28,7 +29,9 @@ public class ProductService  implements IProductService{
 	//este es el metodo que se va a llamar si el circuit breaker esta cerrado
 	@Override
 	@CircuitBreaker(name = "product", fallbackMethod = "getProductFallback")
+	@Retry(name="product")
 	public Product getProduct(String id) {
+		logger.info("Llamando al servicio de productos, algo pasa");
 	return feignProductRepository.getProductById(id, true);
 	}
 
