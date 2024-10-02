@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c541b981-1e80-4c16-bfed-eec998bfa76f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/src/main/java/CheckoutApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/src/main/java/controller/CheckoutRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/src/main/java/model/Checkout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/src/main/java/model/dto/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/src/main/java/repository/FeignProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/src/main/java/service/ICheckoutService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/src/main/java/service/IProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/src/main/java/service/implementation/CheckoutService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/src/main/java/service/implementation/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/checkout/src/test/java/digitalHouse/checkout/CheckoutApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/config1-server1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/config1-server1/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/config1-server1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/config1-server1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/config1-server1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/config1-server1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/config1-server1/src/main/java/digitalHouse/config1server1/Config1Server1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/config1-server1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/config1-server1/src/test/java/digitalHouse/config1server1/Config1Server1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/ejemplo de clase/clase-5/products-service/src/main/java/com/digitalhouse/products/controller/ProductRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../eureka/ejemplo de clase/clase-5/products-service/src/main/java/com/digitalhouse/products/controller/ProductRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/ejemplo de clase/clase-5/products-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../eureka/ejemplo de clase/clase-5/products-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/eureka-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/eureka-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/eureka-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/eureka-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/eureka-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/eureka-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/eureka-server/src/main/java/digitalHouse/eurekaserver/EurekaServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/eureka-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/eureka-server/src/test/java/digitalHouse/eurekaserver/EurekaServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/products/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/products/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/products/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/products/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/products/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/products/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/products/src/main/java/ProductsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/products/src/main/java/controller/ProductRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/products/src/main/java/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/products/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka/products/src/test/java/digitalHouse/products/ProductsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/src/main/java/com/digitalHouse/gateway/GatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/src/main/java/com/digitalHouse/gateway/filters/CustomFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/src/test/java/com/digitalHouse/gateway/GatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seguridad en API gateway/clase7-seguridad" beforeDir="false" afterPath="$PROJECT_DIR$/../../seguridad en API gateway/clase7-seguridad" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2mlC69OXQHD795v0TBqJqNVeODm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c541b981-1e80-4c16-bfed-eec998bfa76f" name="Changes" comment="" />
+      <created>1727641597970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727641597970</updated>
+    </task>
+    <servers />
+  </component>
+</project>
