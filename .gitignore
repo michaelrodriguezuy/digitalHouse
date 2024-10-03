@@ -1,2 +1,5 @@
 /LIVE coding/
 *.DS_Store
+.idea/
+*.zip
+.vscode/
