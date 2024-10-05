@@ -1,10 +1,10 @@
-package com.digitalhouse.checkoutservice;
+package com.digitalhouse.products;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CheckoutServiceApplicationTests {
+class ProductsServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

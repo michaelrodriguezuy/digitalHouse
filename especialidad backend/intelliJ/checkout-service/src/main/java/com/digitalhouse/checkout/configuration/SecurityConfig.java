@@ -19,7 +19,7 @@ public class SecurityConfig {
                                 .anyRequest().authenticated())
                 .oauth2ResourceServer(oauth2 -> oauth2
                         .jwt(jwt -> jwt
-                                .jwkSetUri("http://localhost:9090/realms/test/protocol/openid-connect/certs")
+                                .jwkSetUri("http://keycloak:8080/realms/test/protocol/openid-connect/certs")
                         // en este endpoint se encuentran los certificados publicos para validar el
                         // token
                         // teniendo esta informacion se va a poder comprobar por ejemplo, el rol de un

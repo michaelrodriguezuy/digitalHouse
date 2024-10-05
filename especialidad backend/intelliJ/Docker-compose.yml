@@ -1,0 +1,83 @@
+version: '3.8'
+
+services:
+  eureka-server:
+    build: eureka-server/
+    mem_limit: 512m
+    ports:
+      - "8761:8761"
+    networks:
+      - intellij_default
+  config-server:
+    build: config-server/
+    mem_limit: 512m
+    depends_on:
+      - eureka-server
+    ports:
+      - "8889:8889"
+    networks:
+      - intellij_default
+  gateway:
+    build: gateway/
+    mem_limit: 512m
+    depends_on:
+      - config-server
+    ports:
+      - "8085:8085"
+    networks:
+      - intellij_default
+  checkout-service:
+    build: checkout-service/
+    mem_limit: 512m
+    ports:
+      - "8081:8090"
+    networks:
+      - intellij_default
+  notification-service:
+    build: notification/
+    mem_limit: 512m
+    ports:
+      - "8083:8090"
+    networks:
+      - intellij_default
+  payments-service:
+    build: payments/
+    mem_limit: 512m
+    depends_on:
+      - config-server
+    ports:
+      - "8082:8090"
+    networks:
+      - intellij_default
+  products-service:
+    build: products-service/
+    mem_limit: 512m
+    ports:
+      - "8084:8090"
+    networks:
+      - intellij_default
+  rabbitmq:
+    image: rabbitmq:4.0-management
+    mem_limit: 512m
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - intellij_default
+  keycloak:
+    image: quay.io/keycloak/keycloak:25.0.6
+    mem_limit: 512m
+    ports:
+      - "8080:8080"
+    environment:
+      - KEYCLOAK_ADMIN=admin
+      - KEYCLOAK_ADMIN_PASSWORD=admin
+    command:
+      start-dev
+    networks:
+      - intellij_default
+
+networks:
+  intellij_default:
+    external: true
+  
