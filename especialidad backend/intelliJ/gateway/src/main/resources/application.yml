@@ -5,7 +5,7 @@ spring:
     import: "optional:configserver:"
   security:
     oauth2:
-      resourceserver:
+      resource-server:
         jwt:
           issuer-uri: http://keycloak:8080/realms/test
   cloud:
@@ -48,9 +48,12 @@ logging:
     org.springframework.web.reactive.function.client: DEBUG
     org.springframework.security.oauth2: DEBUG
     org.springframework.web: DEBUG
-    reactor.netty: DEBUG
 
 management:
   tracing:
     sampling:
       probability: 1.0
+  zipkin:
+    tracing:
+      endpoint: http://zipkin:9411/api/v2/spans
+

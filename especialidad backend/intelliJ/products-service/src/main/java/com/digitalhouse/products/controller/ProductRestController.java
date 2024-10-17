@@ -17,7 +17,7 @@ public class ProductRestController {
 		if (throwError) {
 			throw new RuntimeException();
 		}
-		return new Product(id, "Notebook", 2000.0, "Instance 1");
+		return new Product(id, "Notebook", 2000.0, "Instance 6");
 
 	}
 
