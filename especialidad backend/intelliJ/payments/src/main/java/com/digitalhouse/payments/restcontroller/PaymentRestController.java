@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/payments")
 public class PaymentRestController {
 
-    private PaymentService paymentService;
+    private final PaymentService paymentService;
 
     Logger logger = LoggerFactory.getLogger(PaymentRestController.class);
 

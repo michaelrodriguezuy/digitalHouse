@@ -3,55 +3,46 @@ version: '3.8'
 services:
   eureka-server:
     build: eureka-server/
-    mem_limit: 512m
     ports:
       - "8761:8761"    
   config-server:
     build: config-server/
-    mem_limit: 512m
     depends_on:
       - eureka-server
     ports:
       - "8889:8889"    
   gateway:
     build: gateway/
-    mem_limit: 512m
     depends_on:
       - config-server
     ports:
       - "8085:8085"    
   checkout-service:
     build: checkout-service/
-    mem_limit: 512m
     ports:
       - "8081:8090"    
   notification-service:
     build: notification/
-    mem_limit: 512m
     ports:
       - "8083:8090"    
   payments-service:
     build: payments/
-    mem_limit: 512m
     depends_on:
       - config-server
     ports:
       - "8082:8090"    
   products-service:
     build: products-service/
-    mem_limit: 512m
     ports:
       - "8084:8090"    
 
   rabbitmq:
     image: rabbitmq:4.0-management
-    mem_limit: 512m
     ports:
       - "5672:5672"
       - "15672:15672"    
   keycloak:
     image: quay.io/keycloak/keycloak:25.0.6
-    mem_limit: 512m
     ports:
       - "8080:8080"
     environment:
@@ -68,15 +59,16 @@ services:
     image: docker.elastic.co/elasticsearch/elasticsearch:8.15.2
     environment:
       - discovery.type=single-node      
-      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - ES_JAVA_OPTS=-Xms2g -Xmx2g
+    volumes:
+      - /Users/michaelrodriguez/springboot/elasticsearch-8.15.2/config/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
     ports:
       - "9200:9200"    
 
   kibana:
     image: docker.elastic.co/kibana/kibana:8.15.2
     environment:
-      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
-      - xpack.security.enabled=false
+      - xpack.security.enabled=false  
     ports:
       - "5601:5601"
     depends_on:
