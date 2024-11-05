@@ -48,6 +48,8 @@ logging:
     org.springframework.web.reactive.function.client: DEBUG
     org.springframework.security.oauth2: DEBUG
     org.springframework.web: DEBUG
+  file:
+    flushInterval: 10s
 
 management:
   tracing:

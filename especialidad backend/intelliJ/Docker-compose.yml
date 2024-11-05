@@ -5,61 +5,83 @@ services:
     build: eureka-server/
     ports:
       - "8761:8761"    
+    environment:
+      - TZ=America/Montevideo
   config-server:
     build: config-server/
     depends_on:
       - eureka-server
     ports:
       - "8889:8889"    
+    environment:
+      - TZ=America/Montevideo
   gateway:
     build: gateway/
     depends_on:
       - config-server
     ports:
       - "8085:8085"    
+    environment:
+      - TZ=America/Montevideo
   checkout-service:
     build: checkout-service/
     ports:
       - "8081:8090"    
+    environment:
+      - TZ=America/Montevideo
   notification-service:
     build: notification/
     ports:
-      - "8083:8090"    
+      - "8083:8090"       
+    environment:
+      - TZ=America/Montevideo
   payments-service:
     build: payments/
     depends_on:
       - config-server
     ports:
       - "8082:8090"    
+    environment:
+      - TZ=America/Montevideo
+    volumes:
+      - /Users/michaelrodriguez/springboot/logs:/usr/share/logstash/logs
   products-service:
     build: products-service/
     ports:
       - "8084:8090"    
+    environment:
+      - TZ=America/Montevideo
 
   rabbitmq:
     image: rabbitmq:4.0-management
     ports:
       - "5672:5672"
       - "15672:15672"    
+    environment:
+      - TZ=America/Montevideo
   keycloak:
     image: quay.io/keycloak/keycloak:25.0.6
     ports:
       - "8080:8080"
     environment:
       - KEYCLOAK_ADMIN=admin
-      - KEYCLOAK_ADMIN_PASSWORD=admin
+      - KEYCLOAK_ADMIN_PASSWORD=admin      
+      - TZ=America/Montevideo
     command:
       start-dev    
   zipkin:
     image: openzipkin/zipkin    
     ports:
       - "9411:9411"
+    environment:
+      - TZ=America/Montevideo
 
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:8.15.2
     environment:
       - discovery.type=single-node      
-      - ES_JAVA_OPTS=-Xms2g -Xmx2g
+      - ES_JAVA_OPTS=-Xms2g -Xmx2g      
+      - TZ=America/Montevideo
     volumes:
       - /Users/michaelrodriguez/springboot/elasticsearch-8.15.2/config/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
     ports:
@@ -68,7 +90,8 @@ services:
   kibana:
     image: docker.elastic.co/kibana/kibana:8.15.2
     environment:
-      - xpack.security.enabled=false  
+      - xpack.security.enabled=false      
+      - TZ=America/Montevideo
     ports:
       - "5601:5601"
     depends_on:
@@ -79,11 +102,13 @@ services:
     ports:
       - "5044:5044"
       - "9600:9600"
-    volumes:
-      - /Users/michaelrodriguez/springboot/logstash-8.15.2/config:/usr/share/logstash/config
-      - /Users/michaelrodriguez/springboot/logs:/usr/share/logstash/logs
+    volumes:    
+      - /Users/michaelrodriguez/springboot/logs:/usr/share/logstash/logs:rw
+      - /Users/michaelrodriguez/springboot/logstash-8.15.2/config:/usr/share/logstash/config      
     depends_on:
       - elasticsearch    
+    environment:
+      - TZ=America/Montevideo
 
 volumes:
   es_data:

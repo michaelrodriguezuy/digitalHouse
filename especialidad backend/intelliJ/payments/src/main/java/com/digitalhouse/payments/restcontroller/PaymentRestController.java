@@ -20,7 +20,7 @@ public class PaymentRestController {
 
     @GetMapping()
     public Payment getPayment(String id){
-        logger.info("Intentando obtener payment con id: "+id);
+                logger.info("Intentando obtener payment con id: "+id);
         return new Payment(id,500.0f,"id 1", "id 2");
     }
 
