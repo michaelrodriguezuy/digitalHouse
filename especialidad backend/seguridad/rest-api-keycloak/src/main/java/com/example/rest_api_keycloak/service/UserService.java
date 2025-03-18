@@ -1,8 +1,8 @@
-package service;
+package com.example.rest_api_keycloak.service;
 
-import model.User;
+import com.example.rest_api_keycloak.model.User;
 import org.springframework.stereotype.Service;
-import repository.IUserRepository;
+import com.example.rest_api_keycloak.repository.IUserRepository;
 
 import java.util.List;
 

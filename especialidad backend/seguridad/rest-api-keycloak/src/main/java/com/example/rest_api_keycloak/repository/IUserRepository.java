@@ -1,6 +1,6 @@
-package repository;
+package com.example.rest_api_keycloak.repository;
 
-import model.User;
+import com.example.rest_api_keycloak.model.User;
 
 import java.util.List;
 import java.util.Optional;

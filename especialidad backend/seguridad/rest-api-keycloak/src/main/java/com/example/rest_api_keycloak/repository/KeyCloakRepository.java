@@ -1,6 +1,6 @@
-package repository;
+package com.example.rest_api_keycloak.repository;
 
-import model.User;
+import com.example.rest_api_keycloak.model.User;
 import org.keycloak.admin.client.Keycloak;
 import org.keycloak.representations.idm.UserRepresentation;
 import org.springframework.beans.factory.annotation.Autowired;

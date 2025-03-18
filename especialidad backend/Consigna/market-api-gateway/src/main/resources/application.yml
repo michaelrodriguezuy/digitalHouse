@@ -1,0 +1,32 @@
+spring:
+  security:
+    oauth2:
+      client:
+        provider:
+          keycloak:
+            issuer-uri: http://localhost:8080/realms/market-reino
+        registration:
+          keycloak:
+            provider: keycloak
+            scope: openid
+            client-id: market-gateway-client
+            client-secret: 7nvSktSe3w77XNkJevswKt7ybWVQI42T
+            authorization-grant-type: authorization_code
+            redirect-uri: http://localhost:9090/login/oauth2/code/keycloak
+
+  cloud:
+    gateway:
+      default-filters:
+        - TokenRelay
+      routes:
+        - id: payment-service
+          uri: http://localhost:8082
+          predicates:
+            - Path=/payment/**
+server:
+  port: 9090
+
+logging:
+  level:
+    org.springframework.security: DEBUG
+    org.springframework.web: DEBUG

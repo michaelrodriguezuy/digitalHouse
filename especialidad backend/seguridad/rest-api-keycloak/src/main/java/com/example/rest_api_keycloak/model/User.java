@@ -1,4 +1,4 @@
-package model;
+package com.example.rest_api_keycloak.model;
 
 public class User {
     private String userId;
