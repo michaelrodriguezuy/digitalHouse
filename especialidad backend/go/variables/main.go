@@ -65,5 +65,9 @@ func main() {
 		fmt.Printf("type: %T, value: %s \n", intStringVar2, intStringVar2)
 	}
 
+		strIntVar3, err3 := strconv.Atoi("123")
+		strIntVar4, err4 := strconv.Atoi("123R")
 
+		fmt.Printf("type: %T, value: %d, error: %v \n", strIntVar3, strIntVar3, err3)
+		fmt.Printf("type: %T, value: %d, error: %v \n", strIntVar4, strIntVar4, err4)
 }
