@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/michaelrodriguez/digitalhouse-backend-go/structs/commerce"
 )
 
 type User struct {
@@ -40,5 +41,34 @@ func main() {
 	fmt.Println("Fuera del metodo: ",string(v)) //convierto la cadena de bytes en un string, y lo veo como un json
 	user.Display()
 
-	user.setName("Pedro")
+	// user.setName("Pedro")
+
+	p1 := commerce.Product{
+				Name:  "Laptop",
+				Price: 2000,
+				Type: commerce.Type{
+					Code:        "LT",
+					Description: "Informatica",
+				},
+				Tags: []string{"laptop", "pc", "informatica"},
+				Count: 2,
+			}
+
+	p2 := commerce.Product{
+				Name:  "Linterna",
+				Price: 50,
+				Type: commerce.Type{
+					Code:        "LN",
+					Description: "Herramientas",
+				},
+				Tags: []string{"linterna", "iluminacion", "herramientas"},
+				Count: 3,
+			}
+
+			car:= commerce.NewCar(1)
+			car.AddProduct(p1, p2)
+			fmt.Println("PRODUCTS CAR")
+			fmt.Println("Total products: ", len(car.Products))
+			fmt.Printf("Total CAR $%.2f\n", car.Total())
+
 }
