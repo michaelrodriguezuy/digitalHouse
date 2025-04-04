@@ -35,7 +35,7 @@ func main() {
 	//al estilo, "tengo 41 años, 2 meses, 3 dias y 4 horas", pero todo en la misma linea
 	p("Diferencia exacta de tiempo de mi nacimiento 30/08/1983: ", int(dif.Hours()/24/365), " años, ", int(dif.Hours()/24/30)-int(dif.Hours()/24/365)*12, " meses, ", int(dif.Hours()/24)-int(dif.Hours()/24/30)*30, " dias y ", int(dif.Hours())%24, " horas")
 
- //Diferencia exacta de tiempo de mi nacimiento 30/08/1983:  41  años,  14  meses,  13  dias y  4  horas - ESTO ME MUESTRA LA TERMINAL, PERO NO PUEDE SER QUE TENGA 14 MESES, NO?
- //que esta mal en la operacion 	
+	//Diferencia exacta de tiempo de mi nacimiento 30/08/1983:  41  años,  14  meses,  13  dias y  4  horas - ESTO ME MUESTRA LA TERMINAL, PERO NO PUEDE SER QUE TENGA 14 MESES, NO?
+	//que esta mal en la operacion
 
 }
