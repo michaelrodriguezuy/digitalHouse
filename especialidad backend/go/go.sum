@@ -1,2 +1,4 @@
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/michaelrodriguezuy/go_test2 v0.0.2 h1:MLJcX+EMapkxJDCpcUdDXx6zij4Cs7/pLBzUyxeJ9ns=
+github.com/michaelrodriguezuy/go_test2 v0.0.2/go.mod h1:YPBc34DOL2O1qOpcNXnY1thA7oa48MFs2I3kRuMk24Q=
